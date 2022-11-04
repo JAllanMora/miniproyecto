@@ -1,0 +1,270 @@
+
+*{
+   
+    max-width: 1440px;
+}
+body{
+    padding: 100px;
+    font-family: 'Montserrat';
+font-style: normal;
+}
+.titulo{
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700px;
+font-size: 35px;
+color: #000000;
+line-height: 17px;
+
+}
+.intro{
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 17px;
+    color: #4F4F4F;
+}
+.pastel{
+    width: 1100px;
+}
+.ingredientes{
+ width: 150px;   
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+}
+.primer{
+font-family: 'Playfair Display';
+font-style: italic;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+width: 200px;
+}
+
+.restaurante{
+    display: flex;
+    width: 28px;
+    height: 25px;
+    padding-top: 55px;
+    padding-left: 30px;
+    
+}
+.relojlogo1{
+    display: flex;
+    width: 28.33px;
+    height: 26.5px;
+    padding-top: 55px;
+    padding-left: 30px;
+    
+}
+.relojlogo2{
+    display: flex;
+    width: 28.33px;
+    height: 26.5px;
+    padding-top: 50px;
+    padding-left: 30px;
+  
+}
+.relojlogo3{
+    display: flex;
+    width: 28.33px;
+    height: 26.5px;
+    padding-top: 55px;
+    padding-left: 30px;
+
+}
+
+.yev{
+    width: 38px;
+    height: 12px;
+    padding-top: 50px;
+    padding-left: 40px;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-transform: uppercase;
+color: #BDBDBD;
+}
+.serv{
+    width: 77px;
+    height: 17px;
+    padding-top: 2px;
+    padding-left: 40px;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #F2994A;
+}
+.pret{
+    display: flex;
+    width: 58px;
+    height: 12px;
+    padding-top: 50px;
+    padding-left: 40px;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-transform: uppercase;
+color: #BDBDBD;
+}
+.cuatrocinco{
+    width: 80px;
+    height: 17px;
+    padding-top: 1px;
+    padding-left: 40px;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #333333;
+}
+.cook{
+    width: 61px;
+    height: 12px;
+    padding-top: 50px;
+    padding-left: 40px;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-transform: uppercase;
+color: #BDBDBD;
+
+}
+.unah{
+    width: 43px;
+    height: 17px;
+    padding-top: 1px;
+    padding-left: 40px;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #333333
+}
+.total{
+    width: 63px;
+    height: 12px;
+    padding-top: 50px;
+    padding-left: 40px;
+    
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 12px;
+text-transform: uppercase;
+color: #BDBDBD;
+}
+.unouno{
+    width: 72px;
+    height: 17px;
+    padding-top: 1px;
+    padding-left: 40px;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #333333;
+}
+.logos{
+    width: 60px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 12px;
+}
+.voladora{
+    position: absolute;
+width: 216px;
+height: 367px;
+left: 995px;
+    top: 850px;
+
+    display: flex;
+    justify-content: flex-end;
+    Width: 216px;
+    height: 367px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+}
+.tiempos{
+    width:155px;
+    border-radius: 12px;
+}
+.cajasvacias1{
+    box-sizing: border-box;
+    border: 1px solid #828282;
+    width: 21px;
+    height: 21px;
+}
+.contenedorcajas{
+    display: flex;
+    padding-top: 15px;
+    padding-right: 15px;
+}
+.crust1{
+    display: flex;
+}
+.naranja{
+    display: flex;
+}
+.contenedorcajas2{
+    display: flex;
+    padding-top: 8px;
+    padding-right: 15px;
+}
+.cajanaranja{
+    background: #F2994A;
+    border-radius: 6px;
+    width: 36px;
+    height: 36px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'Playfair Display';
+    font-weight: 700;
+    font-size: 24px;}
+.creditos{
+ font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+color: #828282;
+}
+.instrucciones{
+    width: 800px;
+}    
+.ingredientes2{
+    width: 800px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
